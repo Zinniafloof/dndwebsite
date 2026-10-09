@@ -16,7 +16,7 @@ While the mission is ongoing the player receive a +1 bonus in their AC and they 
 
 ### The Broken Oath
 
-Because [[The Platinum Heir Iridisax\|The Platinum Heir Iridisax]] will use the relics to create the [[The Argent Regalia\|The Argent Regalia]] the seal will be inevitably activated and the volunteer will suffer the consequences of breaking the oath. First receiving 6d12 Radiant damage and then receiving the following curses:
+Because [[The Lost Echoes of Order/Characters/NPC's/The Platinum Heir Iridisax\|The Platinum Heir Iridisax]] will use the relics to create the [[The Argent Regalia\|The Argent Regalia]] the seal will be inevitably activated and the volunteer will suffer the consequences of breaking the oath. First receiving 6d12 Radiant damage and then receiving the following curses:
 
 * **Absolute Exposure**: The player is unable to lie. if they attempt to lie the emblem sears in their skin locks their voice and they receive 1d6 radiant damage.
 * **Aurelian Weight**: the emblem weights on the player's body slowing their movement speed by 10ft. in combat.

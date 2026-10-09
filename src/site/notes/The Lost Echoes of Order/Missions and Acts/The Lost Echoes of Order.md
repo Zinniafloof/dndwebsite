@@ -29,9 +29,9 @@ Failure: Find the cultists of the [[Obsidian Dawn\|Obsidian Dawn]] and have a fi
 
 ### [[The Lost Echoes of Order/Missions and Acts/Act 2 Relics of the Silver Lineage\|Act 2 Relics of the Silver Lineage]]
 
-**The Hub:** In the capital of the [[Argentian Empire\|Argentian Empire]]; [[The Lost Echoes of Order/Locations/Nations/Luminaria\|Luminaria]]. the party proceeds to go to the guild of [[The Seekers of Dawn\|The Seekers of Dawn]].
+**The Hub:** In the capital of the [[The Lost Echoes of Order/Locations/Nations/Argentian Empire\|Argentian Empire]]; [[The Lost Echoes of Order/Locations/Nations/Luminaria\|Luminaria]]. the party proceeds to go to the guild of [[The Seekers of Dawn\|The Seekers of Dawn]].
 **The Choice**:
-The party encounters [[The Platinum Heir Iridisax\|Aurelia, the noble scholar]] and tasks them with finding the remaining 2 Relics
+The party encounters [[The Lost Echoes of Order/Characters/NPC's/The Platinum Heir Iridisax\|Aurelia, the noble scholar]] and tasks them with finding the remaining 2 Relics
 
 1. **[[The Lost Echoes of Order/Locations/The Azure Ruins\|The Azure Ruins]]**: 
 Small dungeon crawl in the [[The Lost Echoes of Order/Locations/Nations/Kingdom of Kobaltor\|Kingdom of Kobaltor]] where the party encounters a group of cultist and fight for the keystone
@@ -44,11 +44,11 @@ The party can either negotiate with the [[Radiant Dragon Phaedrax\|Radiant Drago
 **The Hub**:
 The [[Aurichalcum Foundry\|Aurichalcum Foundry]] in the [[Bronze Dragon Chalcax\|Bronze Dragon Chalcax]]'s Kingdom [[The Lost Echoes of Order/Locations/Nations/Brondor\|Brondor]]
 **Mission**:
-With the three relics gathered [[The Platinum Heir Iridisax\|Aurelia]] opens up the demi plane into the seals to fight the echo of the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]]
+With the three relics gathered [[The Lost Echoes of Order/Characters/NPC's/The Platinum Heir Iridisax\|Aurelia]] opens up the demi plane into the seals to fight the echo of the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]]
 **Mechanic**: 
 In the demi plane all damage dealt can be either radiant or psychic. the echo can heal 1/2 of the damage received; rounded down. Radiant damage deals double damage and Psychic damage stops the self healing effect of the echo.
 **Reveal**:
-After defeating the echo of the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]], [[The Platinum Heir Iridisax\|Aurelia]] reveals herself to be [[The Platinum Heir Iridisax\|The Platinum Heir Iridisax]] and reforges the Relics into the dragon slaying weapons [[The Argent Regalia\|The Argent Regalia]]. 
+After defeating the echo of the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]], [[The Lost Echoes of Order/Characters/NPC's/The Platinum Heir Iridisax\|Aurelia]] reveals herself to be [[The Lost Echoes of Order/Characters/NPC's/The Platinum Heir Iridisax\|The Platinum Heir Iridisax]] and reforges the Relics into the dragon slaying weapons [[The Argent Regalia\|The Argent Regalia]]. 
 
 ### [[Act 4 The Final Showdown\|Act 4 The Final Showdown]]
 
@@ -56,9 +56,9 @@ After defeating the echo of the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldr
 The party goes to the [[The Basalt Wastelands\|The Basalt Wastelands]] to dispel the weakened seal and fight the true [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]]
 **3 Endings**:
 1. [[Ending 1: Platinum Dawn\|Ending 1: Platinum Dawn]]:
-   Finish off the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]] and use up the remaining life force of the [[Platinum Dragon Luminisax\|Platinum Dragon Luminisax]]. Moving forward the coronation of [[The Platinum Heir Iridisax\|The Platinum Heir Iridisax]]
+   Finish off the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]] and use up the remaining life force of the [[Platinum Dragon Luminisax\|Platinum Dragon Luminisax]]. Moving forward the coronation of [[The Lost Echoes of Order/Characters/NPC's/The Platinum Heir Iridisax\|The Platinum Heir Iridisax]]
 2. [[Ending 2: Fragile Eclipse\|Ending 2: Fragile Eclipse]]:
-   Reseal the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]] with the weapons and [[The Platinum Heir Iridisax\|The Platinum Heir Iridisax]]'s life force leaving the continent at an aparent peace but with the [[Argentian Empire\|Argentian Empire]] with 2 weakened leaders.
+   Reseal the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]] with the weapons and [[The Lost Echoes of Order/Characters/NPC's/The Platinum Heir Iridisax\|The Platinum Heir Iridisax]]'s life force leaving the continent at an aparent peace but with the [[The Lost Echoes of Order/Locations/Nations/Argentian Empire\|Argentian Empire]] with 2 weakened leaders.
 3. [[Ending 3: Obsidian Harmony\|Ending 3: Obsidian Harmony]]:
    The party decide to side with the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]] and restore his empire to bring real order and stability to the continent
 4.  [[Ending 4: Eternal Eclipse\|Ending 4: Eternal Eclipse]]: The party dies to the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]]

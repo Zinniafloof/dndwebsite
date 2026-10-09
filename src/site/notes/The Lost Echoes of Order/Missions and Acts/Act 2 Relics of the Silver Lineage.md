@@ -8,7 +8,7 @@
 
 ## Act Overview
 
-Party can take the offer of Mr. Fallwood taking them to the capital's gates and from there enter the city to find the [[The Seekers of Dawn\|The Seekers of Dawn]] Guild to deliver the letter of recommendation to inquire about the Relic they have in their possession.  There they encounter [[The Platinum Heir Iridisax\|Aurelia, the noble scholar]] and she tasks the party with finding the other 2 relics. 
+Party can take the offer of Mr. Fallwood taking them to the capital's gates and from there enter the city to find the [[The Seekers of Dawn\|The Seekers of Dawn]] Guild to deliver the letter of recommendation to inquire about the Relic they have in their possession.  There they encounter [[The Lost Echoes of Order/Characters/NPC's/The Platinum Heir Iridisax\|Aurelia, the noble scholar]] and she tasks the party with finding the other 2 relics. 
 
 
 ## Part 1: The Radiant Capital of Luminaria
@@ -31,7 +31,7 @@ Party can take the offer of Mr. Fallwood taking them to the capital's gates and 
 | **Signet Ring & Fine Sealing Wax** | 10 gp | A personalized silver ring with a blank face for custom engraving, plus a stick of royal violet wax. | Used to forge official noble seals or sign high-society messages. |
 
 
-[[The Zennith Pavilion\|The Zennith Pavilion]]: the [[Argentian Empire\|Argentian Empire]]'s main palace where [[Platinum Dragon Luminisax\|Platinum Dragon Luminisax]] resides.
+[[The Zennith Pavilion\|The Zennith Pavilion]]: the [[The Lost Echoes of Order/Locations/Nations/Argentian Empire\|Argentian Empire]]'s main palace where [[Platinum Dragon Luminisax\|Platinum Dragon Luminisax]] resides.
 
 [[The Iridiscent Hearth\|The Iridiscent Hearth]]: Inn located in the central area of [[The Lost Echoes of Order/Locations/Nations/Luminaria\|Luminaria]]
 
@@ -55,14 +55,14 @@ Party can take the offer of Mr. Fallwood taking them to the capital's gates and 
 | **🍾 Golden Sovereign Mead (Bottle)** | 4 gp | An elite, effervescent honey mead brewed exclusively for celebrations near the palace gates. |
 
 
-[[The Seekers of Dawn\|The Seekers of Dawn Guild]]: Guild where the party can show the recommendation letter and get taken to [[The Platinum Heir Iridisax\|Aurelia, the noble scholar]] for further inquiry.
+[[The Seekers of Dawn\|The Seekers of Dawn Guild]]: Guild where the party can show the recommendation letter and get taken to [[The Lost Echoes of Order/Characters/NPC's/The Platinum Heir Iridisax\|Aurelia, the noble scholar]] for further inquiry.
 
-[[The Platinum Heir Iridisax\|Aurelia, The Noble Scholar]]:  The scholar in charge of the Guild's branch examines the relic that the party provides and informs them of the purpose of the relic: seal away the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]] and requests the party to recover the other 2 relics for purifying and renewing the seal.
+[[The Lost Echoes of Order/Characters/NPC's/The Platinum Heir Iridisax\|Aurelia, The Noble Scholar]]:  The scholar in charge of the Guild's branch examines the relic that the party provides and informs them of the purpose of the relic: seal away the [[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]] and requests the party to recover the other 2 relics for purifying and renewing the seal.
 
 
 ## Part 2: The Search for the Relics
 
-When the party agrees with [[The Platinum Heir Iridisax\|Aurelia]]'s request, she provides the locations for the next 2 relics. one is in the [[The Lost Echoes of Order/Locations/The Azure Ruins\|The Azure Ruins]] and the other one in the memorial monument located in [[The Lost Echoes of Order/Locations/Aethelguard, Memorial City\|Aethelguard]].
+When the party agrees with [[The Lost Echoes of Order/Characters/NPC's/The Platinum Heir Iridisax\|Aurelia]]'s request, she provides the locations for the next 2 relics. one is in the [[The Lost Echoes of Order/Locations/The Azure Ruins\|The Azure Ruins]] and the other one in the memorial monument located in [[The Lost Echoes of Order/Locations/Aethelguard, Memorial City\|Aethelguard]].
 
 ### Branching Paths
 
