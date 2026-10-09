@@ -15,9 +15,9 @@ Party can take the offer of Mr. Fallwood taking them to the capital's gates and 
 ### Key NPC's and Locations
 
 
-[[The Lost Echoes of Order/Locations/Nations/Luminaria\|Luminaria]] Gates:  The party has to go through a loose check by the guards and see the religious seal of the recommendation letter and give some guidance towards the [[The Seekers of Dawn\|The Seekers of Dawn]] Guild.
+[[The Lost Echoes of Order/Locations/Luminaria\|Luminaria]] Gates:  The party has to go through a loose check by the guards and see the religious seal of the recommendation letter and give some guidance towards the [[The Seekers of Dawn\|The Seekers of Dawn]] Guild.
 
-[[The Lost Echoes of Order/Locations/Nations/Luminaria\|Luminaria]]'s Market Place: a bustling place with lots of stands with varied high quality products.
+[[The Lost Echoes of Order/Locations/Luminaria\|Luminaria]]'s Market Place: a bustling place with lots of stands with varied high quality products.
 
 #### 💎 Capital Luxury & Equipment Ledger
 *These high-end items are perfect for wealthy adventurers looking to upgrade their lifestyle or prepare for royal audiences.*
@@ -33,7 +33,7 @@ Party can take the offer of Mr. Fallwood taking them to the capital's gates and 
 
 [[The Zennith Pavilion\|The Zennith Pavilion]]: the [[The Lost Echoes of Order/Locations/Nations/Argentian Empire\|Argentian Empire]]'s main palace where [[Platinum Dragon Luminisax\|Platinum Dragon Luminisax]] resides.
 
-[[The Iridiscent Hearth\|The Iridiscent Hearth]]: Inn located in the central area of [[The Lost Echoes of Order/Locations/Nations/Luminaria\|Luminaria]]
+[[The Iridiscent Hearth\|The Iridiscent Hearth]]: Inn located in the central area of [[The Lost Echoes of Order/Locations/Luminaria\|Luminaria]]
 
 #### 🛌 Lodging Rates
 
@@ -68,7 +68,7 @@ When the party agrees with [[The Lost Echoes of Order/Characters/NPC's/The Plati
 
 #### [[The Lost Echoes of Order/Locations/The Azure Ruins\|The Azure Ruins]]: 
 
-A dungeon crawl where the party encounters and fights the [[Obsidian Dawn\|Obsidian Dawn]] cult.
+A dungeon crawl where the party encounters and fights the [[The Lost Echoes of Order/Characters/Villains/Obsidian Dawn\|Obsidian Dawn]] cult.
 #### [[The Lost Echoes of Order/Locations/Aethelguard, Memorial City\|Aethelguard, Memorial City]]:
 
 A City of great architecture and beautiful roads hosts a memorial monument where the relic is embedded. the party has the option to negotiate with the [[Radiant Dragon Phaedrax\|Radiant Dragon Phaedrax]] or commit a heist and steal the relic.

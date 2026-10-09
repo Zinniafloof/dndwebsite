@@ -169,7 +169,7 @@ actions:
 
 
 
-When the party hikes back to the village with the relic the [[The Lost Echoes of Order/Characters/NPC's/Gourdvale NPC's/Gourdvale Village Leadership#Village Chief\| Village Chief]] has [[The Lost Echoes of Order/Characters/NPC's/Gourdvale NPC's/Gourdvale Village Leadership#Father Rowan Miller\|the village priest]]analyze it and informs the nature of the seal imprinted on it. and prepares a letter of recommendation to the [[The Seekers of Dawn\|The Seekers of Dawn]] Guild located int he capital of [[The Lost Echoes of Order/Locations/Nations/Argentian Empire\|Argentian Empire]], [[The Lost Echoes of Order/Locations/Nations/Luminaria\|Luminaria]]. Mr. Fallwood offers taking them to the Capital in his cart
+When the party hikes back to the village with the relic the [[The Lost Echoes of Order/Characters/NPC's/Gourdvale NPC's/Gourdvale Village Leadership#Village Chief\| Village Chief]] has [[The Lost Echoes of Order/Characters/NPC's/Gourdvale NPC's/Gourdvale Village Leadership#Father Rowan Miller\|the village priest]]analyze it and informs the nature of the seal imprinted on it. and prepares a letter of recommendation to the [[The Seekers of Dawn\|The Seekers of Dawn]] Guild located int he capital of [[The Lost Echoes of Order/Locations/Nations/Argentian Empire\|Argentian Empire]], [[The Lost Echoes of Order/Locations/Luminaria\|Luminaria]]. Mr. Fallwood offers taking them to the Capital in his cart
 
 
 **Reward**: 50 Gold pieces and Letter recommendation.

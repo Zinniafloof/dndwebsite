@@ -6,14 +6,14 @@
 # The Azure Ruins
 
 
-The **Azure Ruins** are the expansive, subterranean architectural remnants of an ancient forward military settlement built during the height of the **Obsidian Empire**. Situated within the isolationist mountain borders of the modern [[The Lost Echoes of Order/Locations/Nations/Kingdom of Kobaltor\|Kingdom of Kobaltor]], the site served as a strategic garrison stronghold for the B[[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]] legions prior to his sealing. The settlement was engineered as a highly fortified vanguard outpost, recognized by contemporary historians for its near-flawless structural defense grids and complete absence of magical stabilization networks. In the current era, the ruins are largely abandoned, serving as a dangerous, shadowed territory frequently occupied by the [[Obsidian Dawn\|Obsidian Dawn]] cult attempting to unseal the ancient dragon sovereign.
+The **Azure Ruins** are the expansive, subterranean architectural remnants of an ancient forward military settlement built during the height of the **Obsidian Empire**. Situated within the isolationist mountain borders of the modern [[The Lost Echoes of Order/Locations/Nations/Kingdom of Kobaltor\|Kingdom of Kobaltor]], the site served as a strategic garrison stronghold for the B[[Obsidian Dragon Alldrax\|Obsidian Dragon Alldrax]] legions prior to his sealing. The settlement was engineered as a highly fortified vanguard outpost, recognized by contemporary historians for its near-flawless structural defense grids and complete absence of magical stabilization networks. In the current era, the ruins are largely abandoned, serving as a dangerous, shadowed territory frequently occupied by the [[The Lost Echoes of Order/Characters/Villains/Obsidian Dawn\|Obsidian Dawn]] cult attempting to unseal the ancient dragon sovereign.
 
 
 
 ## Historical Context & Architecture
 
 
-Unlike the shifting, gravity-defying spires of [[The Lost Echoes of Order/Locations/Nations/Luminaria\|Luminaria]] which rely entirely on the continuous, reality-warping miracles of [[Luminisax\|Luminisax]] to prevent collapse, the infrastructure of the Azure Ruins was engineered exclusively for material durability and defensive utility. The entire garrison complex is constructed from massive, geometric blocks of interlocking dark basalt and highly polished black obsidian. 
+Unlike the shifting, gravity-defying spires of [[The Lost Echoes of Order/Locations/Luminaria\|Luminaria]] which rely entirely on the continuous, reality-warping miracles of [[Luminisax\|Luminisax]] to prevent collapse, the infrastructure of the Azure Ruins was engineered exclusively for material durability and defensive utility. The entire garrison complex is constructed from massive, geometric blocks of interlocking dark basalt and highly polished black obsidian. 
 
 Excavation notes indicate that these massive fortification walls and deep barracks have stood perfectly preserved for over a millennium without a single drop of stabilizing transmutation or gravity-altering magic. The layout reflects [[Obsidian Dragon Alldrax\|Alldrax's]] core military philosophy: an absolute demand for physical stability, total predictability, and structural permanence, forcing material reality to support itself through mathematical perfection rather than divine illusion.
 

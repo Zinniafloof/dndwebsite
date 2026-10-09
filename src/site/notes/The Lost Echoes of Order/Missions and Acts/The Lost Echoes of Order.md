@@ -25,11 +25,11 @@ The [[The Lost Echoes of Order/Characters/NPC's/Gourdvale NPC's/Gourdvale Villag
 3 success / 2 failures on the skill challenge to find the first keystone.
 **Branching Path:**
 Success: find the Keystone in the forest being corrupted by the dark scales
-Failure: Find the cultists of the [[Obsidian Dawn\|Obsidian Dawn]] and have a fight with them for the relic
+Failure: Find the cultists of the [[The Lost Echoes of Order/Characters/Villains/Obsidian Dawn\|Obsidian Dawn]] and have a fight with them for the relic
 
 ### [[The Lost Echoes of Order/Missions and Acts/Act 2 Relics of the Silver Lineage\|Act 2 Relics of the Silver Lineage]]
 
-**The Hub:** In the capital of the [[The Lost Echoes of Order/Locations/Nations/Argentian Empire\|Argentian Empire]]; [[The Lost Echoes of Order/Locations/Nations/Luminaria\|Luminaria]]. the party proceeds to go to the guild of [[The Seekers of Dawn\|The Seekers of Dawn]].
+**The Hub:** In the capital of the [[The Lost Echoes of Order/Locations/Nations/Argentian Empire\|Argentian Empire]]; [[The Lost Echoes of Order/Locations/Luminaria\|Luminaria]]. the party proceeds to go to the guild of [[The Seekers of Dawn\|The Seekers of Dawn]].
 **The Choice**:
 The party encounters [[The Lost Echoes of Order/Characters/NPC's/The Platinum Heir Iridisax\|Aurelia, the noble scholar]] and tasks them with finding the remaining 2 Relics
 

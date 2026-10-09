@@ -35,7 +35,7 @@ Need to pass a DC 12 Charisma check to have her set up an audience for the party
 
 #### Obsidian Emergency
 
-The players can try to approach a soldier a sentry and show proof of the corruption and the plans of the cultists of [[Obsidian Dawn\|Obsidian Dawn]] to obtain an audience with the [[The Lost Echoes of Order/Characters/NPC's/Aethelguard's NPC's/Marquis Valerius Lux\|Marquis]]. If this convinces the soldier he will go inform his captain and have the party await for an audience.
+The players can try to approach a soldier a sentry and show proof of the corruption and the plans of the cultists of [[The Lost Echoes of Order/Characters/Villains/Obsidian Dawn\|Obsidian Dawn]] to obtain an audience with the [[The Lost Echoes of Order/Characters/NPC's/Aethelguard's NPC's/Marquis Valerius Lux\|Marquis]]. If this convinces the soldier he will go inform his captain and have the party await for an audience.
 
 ##### Execution:
 
@@ -63,7 +63,7 @@ Once the party successfully obtains an audience they are escorted to the castle 
 
 The party has to convince the [[The Lost Echoes of Order/Characters/NPC's/Aethelguard's NPC's/Marquis Valerius Lux\|marquis]] to lend them the relic.
 
-*  The spokesperson must make a DC 15 Charisma check (persuasion) to explain the threat of the [[Obsidian Dawn\|Obsidian Dawn]] cult and convince him that not giving them the relic will result on the seal to burst and corrupt the city with obsidian scales
+*  The spokesperson must make a DC 15 Charisma check (persuasion) to explain the threat of the [[The Lost Echoes of Order/Characters/Villains/Obsidian Dawn\|Obsidian Dawn]] cult and convince him that not giving them the relic will result on the seal to burst and corrupt the city with obsidian scales
 *  Modifiers: speaking in an eloquent way (roleplaying the speech in a fancy way) gives +1 to the roll. If the entire party is clean and properly dressed +2 to the roll. if someone in the party is dirty or smelly -2 to the roll.
 *  **Failure**: If the offend the pride of the marquis they will be escorted out of the castle and will have to pivot to stealing the relic.
 * **Success**: The marquis agrees to lending the relic but he wont lend it without commitment from the party and require a branding ritual
