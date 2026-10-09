@@ -31,3 +31,6 @@ Amethyst dragon: Nebulax is his name adn is an academic lvoer of the arcane and 
 
 ![political map.jpeg](/img/user/The%20Lost%20Echoes%20of%20Order/Locations/Location%20Pictures/worldmap/political%20map.jpeg)
 
+
+
+![travel diagram.png](/img/user/The%20Lost%20Echoes%20of%20Order/Locations/Location%20Pictures/worldmap/travel%20diagram.png)
